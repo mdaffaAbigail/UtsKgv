@@ -1,5 +1,8 @@
 # UtsKgv
 
+## Nama : Muhammad Daffa Abigail
+## NIM : 181401073
+
 Program ini merupakan game balapan, dimana user(Paling bawah berwarna ungu kebiruan) harus melewati garis finish yang telah disediakan.
 Program ini di setting, bahwa user/pemain tidak akan melewati garis finish terlebih dahulu. ***Namun***, terdapat hidden button yang membuat player dapat memenangkan balapan ini. 
 
