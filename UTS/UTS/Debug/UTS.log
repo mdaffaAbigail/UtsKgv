@@ -1,0 +1,8 @@
+﻿  UTS.cpp
+C:\Users\mghoz\Documents\Kuliah\Lab\Semester 4\KGV 2\UTS\UTS\UTS\UTS.cpp(26,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\mghoz\Documents\Kuliah\Lab\Semester 4\KGV 2\UTS\UTS\UTS\UTS.cpp(29,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\mghoz\Documents\Kuliah\Lab\Semester 4\KGV 2\UTS\UTS\UTS\UTS.cpp(51,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\mghoz\Documents\Kuliah\Lab\Semester 4\KGV 2\UTS\UTS\UTS\UTS.cpp(62,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\mghoz\Documents\Kuliah\Lab\Semester 4\KGV 2\UTS\UTS\UTS\UTS.cpp(117,44): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\mghoz\Documents\Kuliah\Lab\Semester 4\KGV 2\UTS\UTS\UTS\UTS.cpp(132,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  UTS.vcxproj -> C:\Users\mghoz\Documents\Kuliah\Lab\Semester 4\KGV 2\UTS\UTS\Debug\UTS.exe
